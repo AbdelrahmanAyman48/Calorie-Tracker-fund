@@ -1,0 +1,27 @@
+.footer {
+  padding: 10px 0;
+}
+
+.content {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  gap: 20px;
+  font-size: large;
+  @media screen and (max-width: 768px) {
+    flex-direction: column;
+    font-size: small;
+  }
+}
+
+.icons {
+  display: flex;
+  gap: 20px;
+}
+
+.atSymbol {
+  margin-right: 5px;
+  vertical-align: middle;
+}
