@@ -3,8 +3,8 @@
 Calorie Tracker is a responsive web application built using React and Vite, providing users with an intuitive way to track their daily meals and calorie intake. With a focus on delivering the best user experience, Calorie Tracker leverages libraries like React Modal and Framer Motion to enhance interactivity and animation.
 
 
-🌟Live Website🌟: https://calorie-tracker-fund-try.vercel.app/
 
+## [🌟Live Website🌟: ](https://calorie-tracker-fund-try.vercel.app/)
 ## Screenshots
 
 ### Desktop
