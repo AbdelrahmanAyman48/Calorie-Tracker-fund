@@ -10,8 +10,8 @@ Calorie Tracker is a responsive web application built using React and Vite, prov
 ### Desktop
   <img  src="ScreenShots/calorieTracker.png" alt="Home">
 <div style="display: flex; justify-content: center; flex-direction:row; ">
-  <img style="width: 500px;  margin: 0 10px;" src="ScreenShots/AddMeal.png" alt="header">
-  <img style="width: 500px;  margin: 0 10px;" src="ScreenShots/ReorderMeals.png" alt="pages">
+  <img style="width: 500px;  margin: 0 10px;" src="ScreenShots/AddMealg.png" alt="header">
+  <img style="width: 500px;  margin: 0 10px;" src="ScreenShots/ReorderMealsg.png" alt="pages">
 </div>
 
 ### Mobile
